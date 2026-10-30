@@ -1,6 +1,6 @@
 # Laboratório de Segurança Ofensiva — Kali Linux, Medusa e Metasploitable 2
 
-> Projeto educacional de simulação controlada de tentativas de autenticação em FTP, DVWA (web) e SMB. **Não execute contra sistemas de terceiros ou redes públicas.** Resultados reais dependem da execução das VMs e devem ser anexados posteriormente. Este repositório não afirma ter executado os testes.
+> Projeto educacional de simulação controlada de tentativas de autenticação em FTP, DVWA (web) e SMB. **Não execute contra sistemas de terceiros ou redes públicas.** Resultados reais dependem da execução das VMs.
 
 ## Objetivos
 
