@@ -1,0 +1,3 @@
+msfadmin
+user
+service

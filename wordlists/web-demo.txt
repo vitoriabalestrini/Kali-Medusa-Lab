@@ -1,0 +1,4 @@
+123456
+admin
+lab123
+password
